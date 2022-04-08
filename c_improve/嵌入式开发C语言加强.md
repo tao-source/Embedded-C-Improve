@@ -186,11 +186,9 @@ xxx_lcds[type].draw_logo();
 
 ## 4. ARM架构
 
-![](.\images\01_risc.png)
+<img src=".\images\01_risc.png" />
 
-
-
-![](.\images\02_risc_calc.png)
+<img src=".\images\02_risc_calc.png" />
 
 
 
