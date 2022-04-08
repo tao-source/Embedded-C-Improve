@@ -186,11 +186,11 @@ xxx_lcds[type].draw_logo();
 
 ## 4. ARM架构
 
-![image-20210919084251650](.\images\/01_risc.png)
+![](G:\我的技能网\WDS_嵌入式C提升\c_imporve\images\01_risc.png)
 
 
 
-![image-20210919084344950](.\images\02_risc_calc.png)
+![](G:\我的技能网\WDS_嵌入式C提升\c_imporve\images\02_risc_calc.png)
 
 
 
